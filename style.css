@@ -1,0 +1,13 @@
+h1 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+* {
+    background-color: antiquewhite;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+ul li{
+    margin-bottom: 50px;
+}
