@@ -1,6 +1,7 @@
 h1 {
     text-align: center;
     text-decoration: underline;
+    margin-bottom: 50px;
 }
 
 * {
@@ -10,4 +11,9 @@ h1 {
 
 ul li{
     margin-bottom: 50px;
+}
+
+img {
+    display: block;
+    margin: auto;
 }
